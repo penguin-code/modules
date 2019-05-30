@@ -1,4 +1,4 @@
-This Jupyter Notebook is a Computational Guided Inquiry (CGI) module. In computation guided inquiry, the instructor guides the students in learning through the use of a computational tool; in this case, a Jupyter Notebook. This module is freely available under the following conditions:
+This Jupyter Notebook is a Computational Guided Inquiry (CGI) module. In computational guided inquiry, the instructor guides the students in learning through the use of a computational tool; in this case, a Jupyter Notebook. This module is freely available under the following conditions:
 
 1) If you would like to use this module, please contact Penny Rowe (prowe@nwra.com). We would like to keep track of how many instructors are using the module. We can also provide help if needed.
 
