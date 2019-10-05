@@ -1,5 +1,5 @@
-# Polar-CGI
-Computational Guided Inquiry modules for polar research and data
+# PENGUIN
+Computational Polar EducatioN through GUIded INquiry
 
 These educational modules are Computational Guided Inquiry (CGI) modules. In computational guided inquiry, the instructor guides the students in learning through the use of a computational tool; here an Excel Workbook or a Jupyter Notebook. Folder within this directory contain a complete module. The modules are freely available to use under the following conditions:
 
