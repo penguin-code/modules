@@ -1,6 +1,8 @@
 # PENGUIN
 Polar EducatioN through GUIded INquiry
 
+TEST CHANGE HERE
+
 These educational modules bring polar education to students in a variety of courses through Computational Guided Inquiry (CGI) modules. In computational guided inquiry, the instructor guides the students in learning through the use of a computational tool; here an Excel Workbook or a Jupyter Notebook. Each folder within this directory contains a complete module. The modules are freely available to use under the following conditions:
 
 1) If you would like to use this module, please contact Penny Rowe (penny@nwra.com). We would like to keep track of how many instructors are using the module. We can also provide help if needed.
