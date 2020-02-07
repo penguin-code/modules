@@ -2,6 +2,7 @@
 Polar EducatioN through GUIded INquiry
 
 TEST CHANGE HERE
+MORE CHANGES
 
 These educational modules bring polar education to students in a variety of courses through Computational Guided Inquiry (CGI) modules. In computational guided inquiry, the instructor guides the students in learning through the use of a computational tool; here an Excel Workbook or a Jupyter Notebook. Each folder within this directory contains a complete module. The modules are freely available to use under the following conditions:
 
